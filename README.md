@@ -6,3 +6,5 @@ This repository demonstrates a basic Git workflow for IT3130.
 * README.md: project documentation
 ## Commands practised
 git init, git status, git add, git diff, git commit, git log, git remote, git push
+## What I learned
+Using the staging area allows me to selectively choose which changes to package together before recording a snapshot. Commits create permanent version checkpoints in the local history, while remotes like GitHub allow us to back up code and collaborate with others.
